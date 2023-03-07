@@ -1,0 +1,17 @@
+C:\Users\mitch\source\repos\CallaSchool\CallaSchool\bin\Debug\net6.0-windows\CallaSchool.exe
+C:\Users\mitch\source\repos\CallaSchool\CallaSchool\bin\Debug\net6.0-windows\CallaSchool.deps.json
+C:\Users\mitch\source\repos\CallaSchool\CallaSchool\bin\Debug\net6.0-windows\CallaSchool.runtimeconfig.json
+C:\Users\mitch\source\repos\CallaSchool\CallaSchool\bin\Debug\net6.0-windows\CallaSchool.dll
+C:\Users\mitch\source\repos\CallaSchool\CallaSchool\bin\Debug\net6.0-windows\CallaSchool.pdb
+C:\Users\mitch\source\repos\CallaSchool\CallaSchool\obj\Debug\net6.0-windows\CallaSchool.csproj.AssemblyReference.cache
+C:\Users\mitch\source\repos\CallaSchool\CallaSchool\obj\Debug\net6.0-windows\CallaSchool.Form1.resources
+C:\Users\mitch\source\repos\CallaSchool\CallaSchool\obj\Debug\net6.0-windows\CallaSchool.csproj.GenerateResource.cache
+C:\Users\mitch\source\repos\CallaSchool\CallaSchool\obj\Debug\net6.0-windows\CallaSchool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mitch\source\repos\CallaSchool\CallaSchool\obj\Debug\net6.0-windows\CallaSchool.AssemblyInfoInputs.cache
+C:\Users\mitch\source\repos\CallaSchool\CallaSchool\obj\Debug\net6.0-windows\CallaSchool.AssemblyInfo.cs
+C:\Users\mitch\source\repos\CallaSchool\CallaSchool\obj\Debug\net6.0-windows\CallaSchool.csproj.CoreCompileInputs.cache
+C:\Users\mitch\source\repos\CallaSchool\CallaSchool\obj\Debug\net6.0-windows\CallaSchool.dll
+C:\Users\mitch\source\repos\CallaSchool\CallaSchool\obj\Debug\net6.0-windows\refint\CallaSchool.dll
+C:\Users\mitch\source\repos\CallaSchool\CallaSchool\obj\Debug\net6.0-windows\CallaSchool.pdb
+C:\Users\mitch\source\repos\CallaSchool\CallaSchool\obj\Debug\net6.0-windows\CallaSchool.genruntimeconfig.cache
+C:\Users\mitch\source\repos\CallaSchool\CallaSchool\obj\Debug\net6.0-windows\ref\CallaSchool.dll
